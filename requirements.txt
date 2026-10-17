@@ -1,0 +1,4 @@
+pywebview>=6.0,<7
+kokoro-onnx==0.6.1
+sounddevice>=0.5.1,<1
+pyinstaller>=6.0,<7
